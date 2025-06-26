@@ -1,5 +1,7 @@
 <h1 align="center">
-Showkat Ali
+Hi, I am Showkat Ali
+<br/>
+  A passionate Software Developer. 
 <br/>
 Former Frontend Software Developer at @Kalke, Former Frontend Engineer at @Reef
 </h1>
